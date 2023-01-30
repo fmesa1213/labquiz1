@@ -1,4 +1,8 @@
-//Frida Mesa 1/30/23
+/*
+Frida Mesa 
+1/30/23
+Lab quiz 1 
+ */
 
 #include <iostream>
 using namespace std;
